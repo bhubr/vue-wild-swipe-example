@@ -1,5 +1,7 @@
 # vue-swipe-example
 
+> Live demo: <https://bhubr.github.io/vue-wild-swipe-example/>
+
 ## Project setup
 ```
 yarn install
